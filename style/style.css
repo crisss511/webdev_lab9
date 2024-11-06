@@ -17,4 +17,11 @@
   margin: 20px auto;
   font-size: 24px;
   font-weight: bold;
+  cursor: pointer;
+}
+#entrybutton:hover {
+  background-color: #900;
+}
+#entrybutton:active {
+  background-color: #600;
 }
